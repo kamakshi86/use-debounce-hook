@@ -34,10 +34,12 @@ cd use-debounce-hook
 npm install
 npm run dev
 
-🧠 What is useDebounce?
+## 🧠 What is useDebounce?
+
 useDebounce is a custom React hook that delays updating a value until after a specified delay. Great for search inputs, filters, or anything API-driven.
 
 const debounced = useDebounce(value, 500);
 
-📜 License
+## 📜 License
+
 MIT
